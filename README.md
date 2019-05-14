@@ -1,3 +1,2 @@
 # Projects
-First things first - learn
-
+Initial effort with Talkpython training
